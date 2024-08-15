@@ -2,4 +2,4 @@ let mapleader = " "
 
 inoremap jj <esc>
 
-nnoremap <leader>fs :vsc Edit.GoToFile<CR> 
+nnoremap <leader>sf :vsc Edit.GoToFile<CR> 
