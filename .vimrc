@@ -1,3 +1,6 @@
+set relativenumber
+set clipboard = unnamedplus
+
 let mapleader = " "
 
 inoremap jj <esc>
